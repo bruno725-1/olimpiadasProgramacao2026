@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\bin\Debug\net9.0\intervalo.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\bin\Debug\net9.0\intervalo.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\bin\Debug\net9.0\intervalo.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\bin\Debug\net9.0\intervalo.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\bin\Debug\net9.0\intervalo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\refint\intervalo.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\intervalo.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\intervalo\obj\Debug\net9.0\ref\intervalo.dll
