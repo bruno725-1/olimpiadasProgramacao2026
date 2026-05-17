@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\bin\Debug\net9.0\distanciaEntreDoisPontos.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\bin\Debug\net9.0\distanciaEntreDoisPontos.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\bin\Debug\net9.0\distanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\bin\Debug\net9.0\distanciaEntreDoisPontos.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\bin\Debug\net9.0\distanciaEntreDoisPontos.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\refint\distanciaEntreDoisPontos.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\distanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\distanciaEntreDoisPontos\obj\Debug\net9.0\ref\distanciaEntreDoisPontos.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\bin\Debug\net9.0\idadeEmDias.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\bin\Debug\net9.0\idadeEmDias.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\bin\Debug\net9.0\idadeEmDias.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\bin\Debug\net9.0\idadeEmDias.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\bin\Debug\net9.0\idadeEmDias.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\refint\idadeEmDias.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\idadeEmDias.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\idadeEmDias\obj\Debug\net9.0\ref\idadeEmDias.dll
