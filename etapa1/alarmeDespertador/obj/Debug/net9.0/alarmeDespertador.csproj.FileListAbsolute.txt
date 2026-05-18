@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\bin\Debug\net9.0\alarmeDespertador.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\bin\Debug\net9.0\alarmeDespertador.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\bin\Debug\net9.0\alarmeDespertador.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\bin\Debug\net9.0\alarmeDespertador.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\bin\Debug\net9.0\alarmeDespertador.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\refint\alarmeDespertador.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\alarmeDespertador.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\alarmeDespertador\obj\Debug\net9.0\ref\alarmeDespertador.dll
