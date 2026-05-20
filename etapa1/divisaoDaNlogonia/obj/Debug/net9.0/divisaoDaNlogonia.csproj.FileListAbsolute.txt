@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\bin\Debug\net9.0\divisaoDaNlogonia.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\bin\Debug\net9.0\divisaoDaNlogonia.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\bin\Debug\net9.0\divisaoDaNlogonia.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\bin\Debug\net9.0\divisaoDaNlogonia.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\bin\Debug\net9.0\divisaoDaNlogonia.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\refint\divisaoDaNlogonia.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\divisaoDaNlogonia.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\divisaoDaNlogonia\obj\Debug\net9.0\ref\divisaoDaNlogonia.dll
