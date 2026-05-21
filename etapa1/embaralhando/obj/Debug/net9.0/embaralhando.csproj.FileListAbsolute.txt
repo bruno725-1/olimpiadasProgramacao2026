@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\bin\Debug\net9.0\embaralhando.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\bin\Debug\net9.0\embaralhando.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\bin\Debug\net9.0\embaralhando.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\bin\Debug\net9.0\embaralhando.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\bin\Debug\net9.0\embaralhando.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\refint\embaralhando.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\embaralhando.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa1\embaralhando\obj\Debug\net9.0\ref\embaralhando.dll
