@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\bin\Debug\net9.0\jogoDoMaior.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\bin\Debug\net9.0\jogoDoMaior.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\bin\Debug\net9.0\jogoDoMaior.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\bin\Debug\net9.0\jogoDoMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\bin\Debug\net9.0\jogoDoMaior.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\refint\jogoDoMaior.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\jogoDoMaior.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\jogoDoMaior\obj\Debug\net9.0\ref\jogoDoMaior.dll

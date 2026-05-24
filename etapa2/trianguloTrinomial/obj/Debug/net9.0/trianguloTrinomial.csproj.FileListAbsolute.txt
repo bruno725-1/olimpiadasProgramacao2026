@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\bin\Debug\net9.0\trianguloTrinomial.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\bin\Debug\net9.0\trianguloTrinomial.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\bin\Debug\net9.0\trianguloTrinomial.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\bin\Debug\net9.0\trianguloTrinomial.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\bin\Debug\net9.0\trianguloTrinomial.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\refint\trianguloTrinomial.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\trianguloTrinomial.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\trianguloTrinomial\obj\Debug\net9.0\ref\trianguloTrinomial.dll

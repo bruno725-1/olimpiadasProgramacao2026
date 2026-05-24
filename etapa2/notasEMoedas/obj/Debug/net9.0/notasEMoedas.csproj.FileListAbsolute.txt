@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\bin\Debug\net9.0\notasEMoedas.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\bin\Debug\net9.0\notasEMoedas.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\bin\Debug\net9.0\notasEMoedas.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\bin\Debug\net9.0\notasEMoedas.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\bin\Debug\net9.0\notasEMoedas.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\refint\notasEMoedas.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\notasEMoedas.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\notasEMoedas\obj\Debug\net9.0\ref\notasEMoedas.dll

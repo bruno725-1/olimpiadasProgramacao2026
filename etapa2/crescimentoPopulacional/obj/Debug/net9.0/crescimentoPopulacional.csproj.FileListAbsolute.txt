@@ -1,0 +1,15 @@
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\bin\Debug\net9.0\crescimentoPopulacional.exe
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\bin\Debug\net9.0\crescimentoPopulacional.deps.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\bin\Debug\net9.0\crescimentoPopulacional.runtimeconfig.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\bin\Debug\net9.0\crescimentoPopulacional.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\bin\Debug\net9.0\crescimentoPopulacional.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.AssemblyInfoInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.AssemblyInfo.cs
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.sourcelink.json
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\refint\crescimentoPopulacional.dll
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.pdb
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\crescimentoPopulacional.genruntimeconfig.cache
+C:\Users\User\Documents\olimpiadasProgramacao2026\etapa2\crescimentoPopulacional\obj\Debug\net9.0\ref\crescimentoPopulacional.dll
