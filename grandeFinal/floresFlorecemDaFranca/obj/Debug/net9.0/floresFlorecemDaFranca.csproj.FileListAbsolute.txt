@@ -1,0 +1,15 @@
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\bin\Debug\net9.0\floresFlorecemDaFranca.exe
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\bin\Debug\net9.0\floresFlorecemDaFranca.deps.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\bin\Debug\net9.0\floresFlorecemDaFranca.runtimeconfig.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\bin\Debug\net9.0\floresFlorecemDaFranca.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\bin\Debug\net9.0\floresFlorecemDaFranca.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.AssemblyInfoInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.AssemblyInfo.cs
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.sourcelink.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\refint\floresFlorecemDaFranca.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\floresFlorecemDaFranca.genruntimeconfig.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\floresFlorecemDaFranca\obj\Debug\net9.0\ref\floresFlorecemDaFranca.dll

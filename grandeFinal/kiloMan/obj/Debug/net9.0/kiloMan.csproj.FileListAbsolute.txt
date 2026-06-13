@@ -1,0 +1,15 @@
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\bin\Debug\net9.0\kiloMan.exe
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\bin\Debug\net9.0\kiloMan.deps.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\bin\Debug\net9.0\kiloMan.runtimeconfig.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\bin\Debug\net9.0\kiloMan.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\bin\Debug\net9.0\kiloMan.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.AssemblyInfoInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.AssemblyInfo.cs
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.sourcelink.json
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\refint\kiloMan.dll
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.pdb
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\kiloMan.genruntimeconfig.cache
+C:\Users\1561719\Documents\olimpiadasProgramacao2026\grandeFinal\kiloMan\obj\Debug\net9.0\ref\kiloMan.dll
